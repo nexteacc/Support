@@ -3,6 +3,7 @@ If you have any questions or encounter issues with this app, we’re here to hel
 
 ### Usage: 
 ✅Install App from APP Store
+
 ✅Add Widget
 
 ### Report an Issue: 
